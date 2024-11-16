@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Phonk';
+    src: url('@/assets/fonts/Phonk.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Phonk', sans-serif;
+  }
