@@ -49,7 +49,6 @@
       padding: 15px;
       font-size: 1rem;
       border-radius: 10px;
-      border: 2px solid black;
       outline: none;
       transition: all 0.3s ease-in-out;
   }
